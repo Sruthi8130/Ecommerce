@@ -1,4 +1,28 @@
 # Sample project
+Ecommerce Platform
+
+Shop, Explore, and Enjoy!
+
+A robust and scalable ecommerce platform built to provide a seamless shopping experience.
+
+Key Features
+
+- User Authentication: Secure login and registration system
+- Product Management: Manage products with ease
+- Shopping Cart: Convenient and secure checkout process
+- Payment Gateway: Integrated payment processing
+- Order Management: Track and manage orders efficiently
+
+Tech Stack
+
+- Backend: Django
+- Database: PostgreSQL
+- Frontend: HTML, CSS, JavaScript
+
+ Author-Sruthi
+
+Let's Revolutionize Online Shopping!
+
 ![Screenshot (87)](https://github.com/user-attachments/assets/a3a70545-741f-42ee-9fb9-4eea22947509)
 ![Screenshot (88)](https://github.com/user-attachments/assets/7a392280-cfaa-47d5-8483-6df50810b560)
 ![Screenshot (89)](https://github.com/user-attachments/assets/dbcfb30d-cb62-4b27-b387-78cb79b7f30d)
