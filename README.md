@@ -1,4 +1,4 @@
-# Sample project
+#FLIPKART- Sample project
 Ecommerce Platform
 
 Shop, Explore, and Enjoy!
