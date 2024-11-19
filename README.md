@@ -1,4 +1,4 @@
-# Flipkart-Sample Project
+# FLIPKART-Sample Project
 
 Shop, Explore, and Enjoy!
 
